@@ -1,0 +1,18 @@
+{
+  "name": "mi9ri Repository",
+  "id": "com.mi9ri.repo",
+  "url": "https://github.com/USER/REPO",
+  "packages": [
+    {
+      "name": "com.mi9ri.bultimporter",
+      "displayName": "まとめていんぽ～た～",
+      "version": "1.0.0",
+      "unity": "2022.3",
+      "description": "Avatar bulk importer tool",
+      "url": "https://github.com/USER/REPO/releases/download/v1.0.0/com.mi9ri.bultimporter-1.0.0.zip",
+      "author": {
+        "name": "mi9ri"
+      }
+    }
+  ]
+}
