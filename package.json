@@ -1,0 +1,16 @@
+{
+  "name": "com.mi9ri.bultimporter",
+  "version": "1.0.0",
+  "private": false,
+  "private-beta": false,
+  "unity": "2022.3",
+  "description": "Avatar bulk importer tool for VRChat.",
+  "displayName": "まとめていんぽ～た～",
+  "author": {
+    "name": "mi9ri",
+    "url": "https://github.com/mi9ri"
+  },
+  "url": "https://github.com/mi9ri/bult-importer-vpm",
+  "repo": "https://vpm.anatawa12.com/vpm.json",
+  "changelogUrl": "https://github.com/mi9ri/bult-importer-vpm/commits/main/"
+}
