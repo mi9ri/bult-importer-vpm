@@ -1,11 +1,12 @@
 {
   "name": "mi9ri Tool",
   "id": "com.mi9ri.repo",
-  "url": "https://github.com/mi9ri/bult-importer-vpm",
+  "url": "https://raw.githubusercontent.com/mi9ri/bult-importer-vpm/main/repo.json",
   "packages": {
     "com.mi9ri.bultimporter": {
       "versions": {
         "1.0.0": {
+          "name": "com.mi9ri.bultimporter",
           "displayName": "まとめていんぽ〜た〜",
           "version": "1.0.0",
           "unity": "2022.3",
@@ -16,6 +17,7 @@
           }
         },
         "1.0.1": {
+          "name": "com.mi9ri.bultimporter",
           "displayName": "まとめていんぽ〜た〜",
           "version": "1.0.1",
           "unity": "2022.3",
