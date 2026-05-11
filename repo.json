@@ -1,17 +1,16 @@
 {
   "name": "mi9ri Tool",
   "id": "com.mi9ri.repo",
-  "url": "https://raw.githubusercontent.com/mi9ri/bult-importer-vpm/main/repo.json",
+  "url": "https://github.com/mi9ri/bult-importer-vpm",
   "packages": {
     "com.mi9ri.bultimporter": {
       "versions": {
-        "1.0.0": {
-          "name": "com.mi9ri.bultimporter",
+        "1.0.1": {
           "displayName": "まとめていんぽ〜た〜",
-          "version": "1.0.0",
+          "version": "1.0.1",
           "unity": "2022.3",
           "description": "Avatar bulk importer tool",
-          "url": "https://github.com/mi9ri/bult-importer-vpm/releases/download/v1.0.0/com.mi9ri.bultimporter-1.0.0.zip",
+          "url": "https://github.com/mi9ri/bult-importer-vpm/releases/download/v1.0.0/com.mi9ri.bultimporter_1.0.1.zip",
           "author": {
             "name": "mi9ri"
           }
