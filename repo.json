@@ -48,6 +48,17 @@
           "author": {
             "name": "mi9ri"
           }
+        },
+        "2.0.1": {
+          "name": "com.mi9ri.bultimporter",
+          "displayName": "まとめていんぽ〜た〜",
+          "version": "2.0.1",
+          "unity": "2022.3",
+          "description": "Avatar bulk importer tool",
+          "url": "https://github.com/mi9ri/bult-importer-vpm/releases/download/v2.0.1/com.mi9ri.bultimporter-2.0.1.zip",
+          "author": {
+            "name": "mi9ri"
+          }
         }
       }
     }
